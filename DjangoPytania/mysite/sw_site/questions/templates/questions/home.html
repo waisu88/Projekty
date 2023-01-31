@@ -1,0 +1,33 @@
+{% extends "questions/base.html" %}
+{% load static %}
+
+
+{% block title %}
+QUIZ
+{% endblock title %}
+
+
+
+
+<body>
+    {% block content %}
+
+    <div class="panel panel-primary">
+        <div class="panel-heading">Panel with panel-primary class</div>
+        <div class="panel-body">Panel Content</div>
+    </div>
+    <div class="container">
+        <div class="row align-items-start"></div>
+            <div class="col">
+                <a href="play"></a>
+                <p>Zagraj</p>
+            </div>
+            <div class="col">
+                <a href="practise"></a>
+                Poćwicz
+            </div>
+        </div>
+    </div>
+    
+    {% endblock content %}
+</body>

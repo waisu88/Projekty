@@ -1,0 +1,28 @@
+{% extends "recruiter_game/base.html" %}
+
+
+   
+{% block content %}  
+{% load static %}
+
+<link rel="stylesheet" href="{% static 'recruiter_game/style.css' %}"/>
+
+
+
+        
+        <div class="gameArea"> 
+            
+                <img src="{% static 'recruiter_game/pavement.jpg' %}" class="pavement">
+            
+                <div class="hole">
+                    <img src="{% static 'recruiter_game/segregator.png' %}" class="hole-image">  
+                </div>
+                <div class="player">
+                
+                    <img src="{% static 'recruiter_game/ryan.png' %}" class="player-image">  
+
+                </div>
+        </div>
+<script src="{% static 'recruiter_game/script.js' %}"></script>
+
+{% endblock content %}  

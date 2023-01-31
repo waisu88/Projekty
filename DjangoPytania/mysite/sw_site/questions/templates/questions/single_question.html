@@ -1,0 +1,18 @@
+{% extends "questions/base.html" %}
+
+{% block content %}
+{% load static %}
+<div class="question-title">Pytanie nr: {{question.number_of_question}}. {{question.question_content}}</div>
+<div class="question-answer">
+    A: {{question.answer_a}}
+    <br>
+    B: {{question.answer_b}}
+    <br>
+    C: {{question.answer_c}}    
+</div>
+
+
+    
+    
+
+{% endblock content %}

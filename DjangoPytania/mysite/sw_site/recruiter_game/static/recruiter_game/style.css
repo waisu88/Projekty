@@ -1,0 +1,66 @@
+html {
+    display: block;
+    padding: 5px 0px;
+    width: 700px;
+    margin: 0 auto;
+
+    padding: 2px 40px 2px 40px;
+}
+
+
+.gameArea {
+    
+    width: 800px;
+    height: 720px;
+
+    border-radius: 10%;
+    position: absolute;
+    resize: none;
+
+}
+
+.pavement {
+    width:100%;
+    height:100%;
+    border-radius: 10%;
+}
+
+body {
+    background-color: goldenrod;
+}
+
+
+.hole-image {
+    top: 320px;
+    left: 340px;
+    position: absolute;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 120px;
+  }
+
+.player {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    justify-content: center;
+    position: absolute;
+    margin: auto;
+}
+
+.player-image {
+    max-width: 100%;
+    max-height: 100%;
+    transform: rotate(0deg);
+}
+
+.aspirant {
+    background-color: white;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    justify-content: center;
+    position: absolute;
+    margin: auto;
+}

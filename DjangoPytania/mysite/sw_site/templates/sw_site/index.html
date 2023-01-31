@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+{% load static %}
+<head>
+
+</head>
+{% block title %}
+
+{% endblock title %}
+
+<body>
+    {% block content %}
+    <br>
+
+    <div class="container">
+        <div class="row align-items-start">
+            
+            <div class="col zagraj-quiz">
+                
+                <p>Quiz</p>
+                <a href="/questions"></a>
+                
+            </div>
+            <div class="col zagraj-rekruter">
+                <a href="/recruiter_game"></a>
+                <p>Gra dla rekrutera</p>
+                <h1>
+                    Nie daj pracy byle komu!
+                
+                </h1>
+            </div>
+            <div class="col przekop-sie">
+                
+            </div>
+        </div>
+        <div class="row align-items-center">
+            <div class="col rysuj-po-ekranie">
+                <a href="/draw_on_screen"></a>
+            </div>
+            <div class="col rysuj-po-ekranie">
+                
+            </div>
+            <div class="col rysuj-po-ekranie">
+                
+            </div>
+
+        </div>
+    </div>
+    {% endblock content %}
+</body>

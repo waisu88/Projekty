@@ -1,0 +1,13 @@
+{% extends "questions/base.html" %}
+
+{% block content %}
+{% load static %}
+
+{% for question in all_questions %}
+    <div class="single-q">
+        <a href="{% url 'questions:single_question' question.pk %}">{{question}}. {{question.question_content}}</a> 
+    </div>
+
+{% endfor %}
+
+{% endblock content %}

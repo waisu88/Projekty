@@ -1,0 +1,1913 @@
+[
+    {
+        "number_of_question": 1,
+        "question_content": "Co robi się w tartaku ?",
+        "answer_a": "mieli się mięso na tatar",
+        "answer_b": "produkuje się tatarak",
+        "answer_c": "tnie się drewno na deski",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 2,
+        "question_content": "Co znaczy powiedzenie „wpuścić kogoś w maliny” ?",
+        "answer_a": "zostawić kogoś w krzakach",
+        "answer_b": "wprowadzić kogoś w błąd",
+        "answer_c": "spóźnić się",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 3,
+        "question_content": "Kiedy Księżyc jest w pełni ?",
+        "answer_a": "gdy ma kształt rogala",
+        "answer_b": "gdy jest okrągły",
+        "answer_c": "gdy wychodzi zza chmur",
+        "correct_answer": "b",
+        "notes": [
+            "Wówczas to znajduje się on po przeciwnej stronie Ziemi niż Słońce i jego obszar zwrócony w stronę Ziemi jest cały przez Słońce oświetlony.",
+            "Przeciwieństwem PEŁNI jest NÓW, kiedy to oświetlana przez Słońce jest niewidoczna z Ziemi strona Księżyca. PEŁNIA, NÓW i KWADRA to FAZY KSIĘŻYCA."
+        ]
+    },
+    {
+        "number_of_question": 4,
+        "question_content": "Co znaczy powiedzenie „dzielić skórę na niedźwiedziu” ?",
+        "answer_a": "kłócić się o nagrodę",
+        "answer_b": "robić plany nie mające pokrycia w rzeczywistości",
+        "answer_c": "zostać królem polowania",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 5,
+        "question_content": "Jak należy jeść rybę ?",
+        "answer_a": "dwoma widelcami",
+        "answer_b": "nożem i widelcem",
+        "answer_c": "łyżką",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 6,
+        "question_content": "Co to jest uniwersytet ?",
+        "answer_a": "ogromna biblioteka",
+        "answer_b": "zbiór starych zegarów",
+        "answer_c": "uczelnia kształcąca specjalistów różnych dziedzin",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 7,
+        "question_content": "Jaki był Słoń Trąbalski ?",
+        "answer_a": "spóźnialski",
+        "answer_b": "zapominalski",
+        "answer_c": "niedowierzalski",
+        "correct_answer": "b",
+        "notes": [
+            "Jest to słoń z wiersza Juliana Tuwima – „Słoń Trąbalski”. Wiersz ten składa się z dwunastu zwrotek, a to są dwie pierwsze:",
+            "",
+            "Był sobie słoń wielki - jak słoń.",
+            "Zwał się ten słoń Tomasz Trąbalski.",
+            "Wszystko, co miał, było jak słoń!",
+            "Lecz straszny był Zapominalski.",
+            "",
+            "Słoniową miał głowę i nogi słoniowe,",
+            "I kły z prawdziwej kości słoniowej,",
+            "I trąbę, którą wspaniale kręcił,",
+            "Wszystko słoniowe - oprócz pamięci.",
+            "...",
+            "Tak naprawdę słonie mają znakomitą pamięć - prawdopodobnie najdłuższą wśród zwierząt. Mają też bardzo dobry słuch i węch, ale niestety słaby wzrok. Słonie zagrożone są obecnie wyginięciem – ich liczba systematycznie się zmniejsza."
+        ]
+    },
+    {
+        "number_of_question": 8,
+        "question_content": "Wskaż największego śpiocha !",
+        "answer_a": "nietoperz",
+        "answer_b": "rak",
+        "answer_c": "suseł",
+        "correct_answer": "c",
+        "notes": [
+            "Susły zapadają w głęboki sen zimowy, który trwa ok. 7 miesięcy."
+        ]
+    },
+    {
+        "number_of_question": 9,
+        "question_content": "Kiedy się mówi „Karty na stół” ?",
+        "answer_a": "gdy się chce, by ktoś ujawnił zamierzenia",
+        "answer_b": "gdy się wybieramy do wróżki",
+        "answer_c": "gdy się przegląda kartę dań w restauracji",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 10,
+        "question_content": "Jak nazywa się dziecko konia ?",
+        "answer_a": "rumak",
+        "answer_b": "kucyk",
+        "answer_c": "źrebak",
+        "correct_answer": "c",
+        "notes": [
+            "Największy z koni to koń rasy Shire – ma dwa metry wysokości i waży 1400 kilogramów, a najmniejszy to kucyk Falabella, który ma nie więcej niż 70 cm. Jest więc wielkości dorosłego psa rasy dog."
+        ]
+    },
+    {
+        "number_of_question": 11,
+        "question_content": "Co to jest oberwanie chmury ?",
+        "answer_a": "śnieżyca",
+        "answer_b": "zaćmienie słońca przez chmury",
+        "answer_c": "straszliwy deszcz",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 12,
+        "question_content": "Co to jest mżawka ?",
+        "answer_a": "chmura gradowa",
+        "answer_b": "kiepska droga",
+        "answer_c": "bardzo drobny deszczyk",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 13,
+        "question_content": "Jak nazywa się lekarz zwierząt ?",
+        "answer_a": "kynolog",
+        "answer_b": "weterynarz",
+        "answer_c": "ornitolog",
+        "correct_answer": "b",
+        "notes": [
+            "Zarówno kynolog, jak i ornitolog również zajmują się zwierzętami, ale nie są lekarzami zwierząt. Kynolog, to badacz zajmujący się wyłącznie psami, a ornitologa interesują tylko ptaki."
+        ]
+    },
+    {
+        "number_of_question": 14,
+        "question_content": "Co znaczy powiedzenie „walczyć z wiatrakami” ?",
+        "answer_a": "robić rzeczy z góry skazane na niepowodzenie",
+        "answer_b": "ścigać się z wiatrem",
+        "answer_c": "zadzierać nosa",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 15,
+        "question_content": "Do czego służy rynna ?",
+        "answer_a": "do łapania piorunów",
+        "answer_b": "służy kotom jako winda",
+        "answer_c": "do odprowadzania nadmiaru wody z dachu",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 16,
+        "question_content": "Kiedy cień jest najdłuższy ?",
+        "answer_a": "w południe",
+        "answer_b": "gdy słońce jest nisko nad horyzontem",
+        "answer_c": "w nocy",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 17,
+        "question_content": "Co to jest „biała plama” ?",
+        "answer_a": "niewidoczny kleks",
+        "answer_b": "kropla mleka",
+        "answer_c": "nie wyjaśniona sprawa",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 18,
+        "question_content": "Co to jest „czarny koń” ?",
+        "answer_a": "cień białego konia",
+        "answer_b": "koń, który pracuje w kopalni",
+        "answer_c": "nieoczekiwany zwycięzca",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 19,
+        "question_content": "Do czego służy wyciąg w górach ?",
+        "answer_a": "do wożenia narciarzy na górę",
+        "answer_b": "do przewożenia śniegu",
+        "answer_c": "do odśnieżania szlaków",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 20,
+        "question_content": "Jakie drzewo płacze ?",
+        "answer_a": "lipa",
+        "answer_b": "wierzba",
+        "answer_c": "osika",
+        "correct_answer": "b",
+        "notes": [
+            "W Chinach wierzba płacząca symbolizuje śmierć i odrodzenie. Wg Sennika, gdy pojawi się ona we śnie, to oznacza, że nadejdą smutne dni.",
+            "Osika, to gatunek topoli, której liście wiecznie się trzęsą – nawet na bardzo małym wietrze. Niektórzy mówią, że to dlatego, iż właśnie na takiej topoli powiesił się Judasz.",
+            "Lipa natomiast to drzewo, któremu pozwolił przemówćł nasz poeta Jan Kochanowski w fraszce „Na lipę”:",
+            "Gościu, siądź pod mym liściem, a odpoczni sobie!",
+            "Nie dójdzie cię tu słońce, przyrzekam ja tobie,",
+            "..."
+        ]
+    },
+    {
+        "number_of_question": 21,
+        "question_content": "O kim mówi się, że zawsze spada na cztery łapy ?",
+        "answer_a": "o tym, kto zawsze dobrze sobie radzi",
+        "answer_b": "o leniuchu",
+        "answer_c": "o tym, kto najlepiej rozwiązuje zadania matematyczne",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 22,
+        "question_content": "Jak określa się najlepszego ucznia w klasie ?",
+        "answer_a": "ośle ucho",
+        "answer_b": "prymus",
+        "answer_c": "lizus",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 23,
+        "question_content": "Co ludzie robią na dancingu ?",
+        "answer_a": "robią zakupy",
+        "answer_b": "czytają książki i gazety",
+        "answer_c": "tańczą",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 24,
+        "question_content": "Co to jest Pegaz ?",
+        "answer_a": "koń ze skrzydłami – symbol poezji",
+        "answer_b": "wąż morski – symbol morza",
+        "answer_c": "struś z długimi uszami – symbol głupoty",
+        "correct_answer": "a",
+        "notes": [
+            "Według mitologii greckiej Pegaz, to skrzydlaty koń, który dzięki skrzydłom dotarł na szczyt Olimpu i odtąd służył Zeusowi, który po jego śmierci przeniósł go na nieboskłon, tworząc gwiazdozbiór Pegaza."
+        ]
+    },
+    {
+        "number_of_question": 25,
+        "question_content": "Dlaczego kangury mają torby na brzuchu ?",
+        "answer_a": "do noszenia pożywienia",
+        "answer_b": "do noszenia swoich dzieci",
+        "answer_c": "do noszenia zaświadczenia o szczepieniu",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 26,
+        "question_content": "Co to jest kra ?",
+        "answer_a": "kora brzozy",
+        "answer_b": "pływające tafle lodu",
+        "answer_c": "duży czarny ptak",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 27,
+        "question_content": "Co to są anielskie włosy ?",
+        "answer_a": "złociste wodorosty na rafach koralowych",
+        "answer_b": "srebrzysta ozdoba choinkowa",
+        "answer_c": "ogon komety",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 28,
+        "question_content": "W jakim miesiącu przypada najdłuższy dzień w roku ?",
+        "answer_a": "w lutym – co cztery lata",
+        "answer_b": "w czerwcu: 22",
+        "answer_c": "w kwietniu: na prima aprilis",
+        "correct_answer": "b",
+        "notes": [
+            "Najdłuższy dzień w roku trwa 16 godzin i 31 minut. Najkrótszy dzień w roku przypada 22 grudnia, a trwa zaledwie 7 godzin i 28 minut."
+        ]
+    },
+    {
+        "number_of_question": 29,
+        "question_content": "Gdzie wypieka się smaczne i sławne pierniki?",
+        "answer_a": "w Gdańsku",
+        "answer_b": "w Genewie",
+        "answer_c": "w Toruniu",
+        "correct_answer": "c",
+        "notes": [
+            "Toruńskie pierniki są wypiekane od 1763 roku. Rocznie sprzedaje się obecnie ok. 10 tysięcy ton toruńskich pierników, które są wysyłane m.in. do USA, Kanady, Izraela, Bułgarii, Węgier, Wielkiej Brytanii, Szwecji i Kuwejtu. Toruńskie pierniki uwielbiał Fryderyk Chopin, który w 1825 roku wychwalaniem ich znakomitego smaku poświęcił nawet jeden z listów do przyjaciela."
+        ]
+    },
+    {
+        "number_of_question": 30,
+        "question_content": "Mówi się, że „diabeł tkwi........”",
+        "answer_a": "w szczegółach",
+        "answer_b": "w zrujnowanym zamczysku",
+        "answer_c": "w pokrzywach",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 31,
+        "question_content": "Gdzie mieszkają krowy?",
+        "answer_a": "w stajni",
+        "answer_b": "w oborze",
+        "answer_c": "w lamusie",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 32,
+        "question_content": "Co to jest atlas?",
+        "answer_a": "stary kufer podróżny",
+        "answer_b": "zbiór map",
+        "answer_c": "droga i miękka tkanina",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 33,
+        "question_content": "Jaki kostium ma Arlekin?",
+        "answer_a": "pstry, uszyty z kolorowych kawałków materiału",
+        "answer_b": "czarny i obwisły",
+        "answer_c": "elegancki, ozdobiony koronką",
+        "correct_answer": "a",
+        "notes": [
+            "Arlekin to tradycyjna postać błazna w czarnej masce, odziana w pstry ubiór zszyty z kolorowych trójkątów, albo rombów."
+        ]
+    },
+    {
+        "number_of_question": 34,
+        "question_content": "Kto to jest pianista?",
+        "answer_a": "artysta grający na fortepianie",
+        "answer_b": "inżynier planujący wielką budowę",
+        "answer_c": "robotnik w fabryce pianin",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 35,
+        "question_content": "Kiedy Ewa ma imieniny?",
+        "answer_a": "w Wigilię Bożego Narodzenia",
+        "answer_b": "w pierwszym dniu wiosny",
+        "answer_c": "w dniu, w którym zaczynają się wakacje",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 36,
+        "question_content": "Co to są fakty?",
+        "answer_a": "tajemnicze obiekty latające,",
+        "answer_b": "kolorowe zdjęcia,",
+        "answer_c": "autentyczne wydarzenia",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 37,
+        "question_content": "„Coś na ząb” to:",
+        "answer_a": "złośliwy dowcip,",
+        "answer_b": "mała przekąska,",
+        "answer_c": "plomba",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 38,
+        "question_content": "Co to jest ciupaga?",
+        "answer_a": "górska kolejka linowa,",
+        "answer_b": "laska górala,",
+        "answer_c": "duże okno balkonowe w starych sanatoriach",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 39,
+        "question_content": "Jak nazywa się największa piramida egipska?",
+        "answer_a": "Kleopatry,",
+        "answer_b": "Króla Faruka,",
+        "answer_c": "Cheopsa",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 40,
+        "question_content": "Co to jest zielnik?",
+        "answer_a": "zbiór przypraw kuchennych,",
+        "answer_b": "kolekcja ususzonych roślin,",
+        "answer_c": "maszyna rolnicza służąca do koszenia łąki",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 41,
+        "question_content": "Dlaczego ciasto rośnie?",
+        "answer_a": "bo są w nim rodzynki,",
+        "answer_b": "bo jest w nim cukier,",
+        "answer_c": "bo są w nim drożdże",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 42,
+        "question_content": "Kiedy wg legendy , zwierzęta mówią ludzkim głosem?",
+        "answer_a": "w pierwszy dzień wiosny",
+        "answer_b": "kiedy ludzie robią im coś złego",
+        "answer_c": "w Wigilię Bożego Narodzenia",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 43,
+        "question_content": "Co robi masarz?",
+        "answer_a": "wędliny",
+        "answer_b": "ładuje towary na wielkie statki zwane masowcami",
+        "answer_c": "organizuje masowe imprezy",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 44,
+        "question_content": "Jaki żeglarz pierwszy opłynął Ziemię?",
+        "answer_a": "Ferdynand Magellan",
+        "answer_b": "Krzysztof Kolumb",
+        "answer_c": "Jan z Kolna",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 45,
+        "question_content": "Co to jest Sylwester?",
+        "answer_a": "nagroda filmowa",
+        "answer_b": "noc z 31 grudnia na 1 stycznia",
+        "answer_c": "kot z filmów Disneya",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 46,
+        "question_content": "Jak nazywa się stolica Stanów Zjednoczonych?",
+        "answer_a": "Waszyngton",
+        "answer_b": "Chicago",
+        "answer_c": "Nowy Jork",
+        "correct_answer": "a",
+        "notes": [
+            "W roku 1800 stolicę Stanów Zjednoczonych przeniesiono z Filadelfii do Waszyngtonu. Miasto powstało w roku 1790 i zostało tak nazwane na cześć Jerzego Waszyngtona – pierwszego prezydenta Stanów Zjednoczonych. Dziesięć lat później stało się stolicą Stanów Zjednoczonych, którą dokładnie w roku 1800 przeniesiono z Filadelfii. Obecnie miasto ma ponad 500 tys. mieszkańców.",
+            "Liczba mieszkańców Nowego Jorku przekracza 8 milionów, a aglomeracja Nowego Jorku (której Nowy Jork jest częścią) przekracza 21 milionów mieszkańców.",
+            "Chicago natomiast jest największym po Warszawie skupiskiem ludności polskojęzycznej (ponad 1,3 mln osób polskiego pochodzenia, w tym ok. 850 tys. mówiących po polsku)."
+        ]
+    },
+    {
+        "number_of_question": 47,
+        "question_content": "Co to jest bród?",
+        "answer_a": "drewniany mostek",
+        "answer_b": "głębina",
+        "answer_c": "płytkie przejście przez rzekę",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 48,
+        "question_content": "Co daje owca?",
+        "answer_a": "wełnę",
+        "answer_b": "kopytka",
+        "answer_c": "rogi, z których robi się gwizdki",
+        "correct_answer": "a",
+        "notes": [
+            "Owce strzyże się raz w roku, w ciepły, słoneczny dzień. Jedno zwierzę może dostarczyć ok. 5 kg wełny, a owce ras długowełniastych nawet 8 kg."
+        ]
+    },
+    {
+        "number_of_question": 49,
+        "question_content": "Co to jest tama?",
+        "answer_a": "zamieć",
+        "answer_b": "mały bębenek",
+        "answer_c": "zapora na rzece",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 50,
+        "question_content": "Do czego służą sztućce?",
+        "answer_a": "do majsterkowania",
+        "answer_b": "do robienia sztuczek magicznych",
+        "answer_c": "do jedzenia posiłków",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 51,
+        "question_content": "Czy pingwiny potrafią latać?",
+        "answer_a": "tylko te z bieguna północnego",
+        "answer_b": "nie",
+        "answer_c": "tylko w niebezpieczeństwie",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 52,
+        "question_content": "Co to jest olej w głowie?",
+        "answer_a": "rozum",
+        "answer_b": "poczucie humoru",
+        "answer_c": "zdolności matematyczne",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 53,
+        "question_content": "Co to jest język obcy?",
+        "answer_a": "język drugiego człowieka",
+        "answer_b": "każdy język, którego trzeba się uczyć",
+        "answer_c": "język pokazany ze złości",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 54,
+        "question_content": "Czym zajmuje się stomatolog?",
+        "answer_a": "szczepi zwierzęta przeciwko wściekliźnie",
+        "answer_b": "leczy zęby",
+        "answer_c": "bada życie stonek ziemniaczanych",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 55,
+        "question_content": "Co to jest meczet?",
+        "answer_a": "świątynia wyznawców islamu",
+        "answer_b": "mały wzorzysty dywan",
+        "answer_c": "księga z baśniami arabskimi",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 56,
+        "question_content": "Jak nazywa się jedyne poza Ziemią ciało niebieskie, po którym spacerował człowiek?",
+        "answer_a": "Księżyc",
+        "answer_b": "Wenus",
+        "answer_c": "Mars",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 57,
+        "question_content": "Kto widzi wszystko w czarnych kolorach?",
+        "answer_a": "ten, kto pracuje nocą",
+        "answer_b": "drukarz",
+        "answer_c": "pesymista",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 58,
+        "question_content": "Jaki owoc daje mleko?",
+        "answer_a": "melon",
+        "answer_b": "orzech kokosowy",
+        "answer_c": "dynia meksykańska",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 59,
+        "question_content": "Jakim językiem porozumiewają się mieszkańcy bieguna północnego?",
+        "answer_a": "żadnym, ponieważ nikt tam nie mieszka",
+        "answer_b": "angielskim",
+        "answer_c": "arktycznym",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 60,
+        "question_content": "Co to jest atrament?",
+        "answer_a": "pożywienie ośmiornic",
+        "answer_b": "ciemny włoski sos dodawany do spaghetti",
+        "answer_c": "płyn służący do pisania",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 61,
+        "question_content": "Co się jada w tłusty czwartek?",
+        "answer_a": "pączki",
+        "answer_b": "oczywiście bigos",
+        "answer_c": "śledzie",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 62,
+        "question_content": "Z czego piecze się chleb?",
+        "answer_a": "z ziemniaków",
+        "answer_b": "ze słomy",
+        "answer_c": "z mąki",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 63,
+        "question_content": "W czym dojrzewają nasiona maku?",
+        "answer_a": "w kłosach",
+        "answer_b": "w główkach",
+        "answer_c": "w strąkach",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 64,
+        "question_content": "Co to jest Droga Mleczna?",
+        "answer_a": "batonik mleczny",
+        "answer_b": "sposób w jaki z mleka produkuje się sery",
+        "answer_c": "olbrzymi zbiór gwiazd i planet, w którym znajduje się również Ziemia",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 65,
+        "question_content": "Co to jest „biały kruk”?",
+        "answer_a": "kruk, który osiwiał",
+        "answer_b": "bardzo rzadka i cenna książka",
+        "answer_c": "ptak żyjący wyłącznie w Puszczy Białowieskiej",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 66,
+        "question_content": "Ilu było apostołów?",
+        "answer_a": "dwunastu",
+        "answer_b": "bez liku",
+        "answer_c": "czterech",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 67,
+        "question_content": "Co to jest ortografia?",
+        "answer_a": "wiedza o poprawnym pisaniu",
+        "answer_b": "wyraźne wysławianie się",
+        "answer_c": "sztuka ładnego pisania",
+        "correct_answer": "a",
+        "notes": [
+            "Sztuka ładnego pisania to kaligrafia, która do 1960 roku była przedmiotem w nauczaniu początkowym."
+        ]
+    },
+    {
+        "number_of_question": 68,
+        "question_content": "W jakiej temperaturze bałwan śniegowy zaczyna się już topić?",
+        "answer_a": "zero stopni Celsjusza",
+        "answer_b": "w temperaturze pokojowej",
+        "answer_c": "w temperaturze minus jeden stopień Celsjusza",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 69,
+        "question_content": "Co robi strach na wróble?",
+        "answer_a": "odstrasza ptaki",
+        "answer_b": "łapie wróble",
+        "answer_c": "odstrasza dziki",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 70,
+        "question_content": "Co to jest peruka?",
+        "answer_a": "kapelusz damski",
+        "answer_b": "parasolka w grochy",
+        "answer_c": "sztuczne włosy",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 71,
+        "question_content": "Z czego robi się ćwikłę?",
+        "answer_a": "z musztardy i buraczków",
+        "answer_b": "z buraczków i chrzanu",
+        "answer_c": "z pomidorów i czosnku",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 72,
+        "question_content": "Co to jest Układ Słoneczny?",
+        "answer_a": "planety krążące wokół Słońca razem z Ziemią",
+        "answer_b": "wszechświat",
+        "answer_c": "okres wiosny i lata, kiedy to jest najwięcej słońca",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 73,
+        "question_content": "Co to jest maraton?",
+        "answer_a": "bieg o długości ponad 42 km",
+        "answer_b": "taniec grecki",
+        "answer_c": "popularny grzyb trujący",
+        "correct_answer": "a",
+        "notes": [
+            "Jest to bieg o długości dokładnie 42 km i 195 m, nazywany tak dla upamiętnienia wyczynu Filippidesa, który przebiegł podobną odległość spod Maratonu do Aten, niosąc Ateńczykom wieść o zwycięstwie Greków nad Persami w bitwie pod Maratonem. Maraton jest dyscypliną olimpijską od czasu pierwszych nowożytnych Igrzysk Olimpijskich w 1896 roku."
+        ]
+    },
+    {
+        "number_of_question": 74,
+        "question_content": "Kraj kwitnącej wiśni to:",
+        "answer_a": "Japonia",
+        "answer_b": "Egipt",
+        "answer_c": "Filipiny",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 75,
+        "question_content": "Co to jest tran?",
+        "answer_a": "tłuszcz wieloryba stosowany jako lekarstwo",
+        "answer_b": "ogon rekina",
+        "answer_c": "piłka do cięcia drewna",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 76,
+        "question_content": "Co to jest snopek?",
+        "answer_a": "wiązka ściętego zboża",
+        "answer_b": "pająk polny",
+        "answer_c": "nikłe światełko w lesie",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 77,
+        "question_content": "Z czego robi się korki do butelek?",
+        "answer_a": "ze sprasowanej gąbki",
+        "answer_b": "z kory dębów korkowych lub z plastiku",
+        "answer_c": "ze skóry hipopotama",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 78,
+        "question_content": "Co to jest bumerang?",
+        "answer_a": "sztuczna szczęka",
+        "answer_b": "kamera video",
+        "answer_c": "przyrząd myśliwski, który po wyrzuceniu sam wraca",
+        "correct_answer": "c",
+        "notes": [
+            "Bronią tą do dnia dzisiejszego posługują się jeszcze australijscy Aborygeni. Najstarszy bumerang australijski jest wykonany z drewna i liczy ok. 10 tysięcy lat. Mało kto jednak wie, że najstarszy na świecie bumerang odkryto w roku 1985 w Polsce - w jaskini o nazwie Obłazowa na Podhalu. Jego wiek ocenia się na 24 tysiące lat. Bumerang wykonany jest z ciosu mamuta, a w dodatku ma ornament i ślady pokrycia czerwonym barwnikiem."
+        ]
+    },
+    {
+        "number_of_question": 79,
+        "question_content": "Kto naukowo zajmuje się ptakami?",
+        "answer_a": "laryngolog",
+        "answer_b": "ornitolog",
+        "answer_c": "numizmatyk",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 80,
+        "question_content": "Co to jest lawina?",
+        "answer_a": "masa śniegu i kamieni osuwająca się po stoku górskim",
+        "answer_b": "dziura w tamie, przez którą leje się woda",
+        "answer_c": "zamieć śnieżna",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 81,
+        "question_content": "Ile kilogramów ma tona?",
+        "answer_a": "100",
+        "answer_b": "1000",
+        "answer_c": "10 ton",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 82,
+        "question_content": "Co to jest prom?",
+        "answer_a": "przyczepa samochodowa",
+        "answer_b": "maszyna rozbijająca kamienie przy budowie dróg",
+        "answer_c": "statek służący do przewożenia ludzi i towarów z jednego brzegu na drugi",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 83,
+        "question_content": "Gdzie w Polsce mieszkają żubry?",
+        "answer_a": "w Bieszczadach",
+        "answer_b": "w Puszczy Białowieskiej",
+        "answer_c": "w Polsce nie ma żubrów",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 84,
+        "question_content": "Jaki jest najmniejszy ptak na świecie?",
+        "answer_a": "szczygieł",
+        "answer_b": "koliber",
+        "answer_c": "kanarek z Wysp Kanaryjskich",
+        "correct_answer": "b",
+        "notes": [
+            "Koliber, to także jedyny ptak na świecie, który potrafi latać do tyłu i w miejscu. Niektóre z nich są tak małe, że wpadają w sieci pająków, albo są chwytane przez ważki. Budują one gniazda wielkości połowy skorupki od orzecha. Serce kolibra wykonuje ok. 1200 uderzeń na minutę w dzień, a w nocy spada do 36 uderzeń na minutę."
+        ]
+    },
+    {
+        "number_of_question": 85,
+        "question_content": "Co to jest falsyfikat?",
+        "answer_a": "czerwony żuraw żyjący nad Nilem",
+        "answer_b": "wesoły utwór muzyczny",
+        "answer_c": "sfałszowany przedmiot",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 86,
+        "question_content": "Ile jest stron świata?",
+        "answer_a": "cztery",
+        "answer_b": "dwie – prawa i lewa",
+        "answer_c": "sześć – prawa, lewa, przód, tył, góra i dół",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 87,
+        "question_content": "Do czego służy puzon?",
+        "answer_a": "do odmierzania taktu melodii",
+        "answer_b": "do grania, gdyż jest to dęty instrument muzyczny",
+        "answer_c": "do liczenia fal morskich",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 88,
+        "question_content": "Co to jest neon?",
+        "answer_a": "bufet w ciastkarni",
+        "answer_b": "reklama uliczna ze świecących rurek wypełnionych gazem",
+        "answer_c": "owoc palny neonowej",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 89,
+        "question_content": "Nad jakim morzem leży Szwajcaria",
+        "answer_a": "nad M. Śródziemnym",
+        "answer_b": "nad M. Kaspijskim",
+        "answer_c": "nad żadnym",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 90,
+        "question_content": "Ile tygodni ma rok?",
+        "answer_a": "12",
+        "answer_b": "52",
+        "answer_c": "100",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 91,
+        "question_content": "Gdzie leży Wawel?",
+        "answer_a": "w stolicy",
+        "answer_b": "w Krakowie",
+        "answer_c": "w Gnieźnie",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 92,
+        "question_content": "Co to jest Wawel ?",
+        "answer_a": "wzgórze",
+        "answer_b": "zamek królewski",
+        "answer_c": "katedra",
+        "correct_answer": "a",
+        "notes": [
+            "Wawel to wzgórze w Krakowie o wysokości 228 metrów. Jest ono położone na lewym brzegu Wisły. Na wzgórzu tym znajduje się kompleks obiektów zabytkowych, z których najważniejsze to Zamek Królewski na Wawelu i Katedra Wawelska."
+        ]
+    },
+    {
+        "number_of_question": 93,
+        "question_content": "Kim jest satyryk?",
+        "answer_a": "człowiekiem, który nudzi",
+        "answer_b": "zawodowym rozśmieszaczem",
+        "answer_c": "dozorcą dzikich zwierząt",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 94,
+        "question_content": "Ile strun mają skrzypce?",
+        "answer_a": "cztery",
+        "answer_b": "najczęściej sześć",
+        "answer_c": "to zależy jakiej są wielkości",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 95,
+        "question_content": "Co *****uje?",
+        "answer_a": "samolot",
+        "answer_b": "statek",
+        "answer_c": "samochód",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 96,
+        "question_content": "Co to jest salto?",
+        "answer_a": "akrobatyczny skok z obrotami",
+        "answer_b": "palik, do którego przywiązuje się konia",
+        "answer_c": "duża suma pieniędzy",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 97,
+        "question_content": "Co to jest miedza?",
+        "answer_a": "polna droga",
+        "answer_b": "wąski pas nie zaoranej ziemi oddzielający jedno pole od drugiego",
+        "answer_c": "kopalnia miedzi",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 98,
+        "question_content": "Co to jest marabut?",
+        "answer_a": "krewniak bociana",
+        "answer_b": "ryba żyjąca w słonych jeziorach Andów",
+        "answer_c": "silny, zakrzywiony dziób sowy",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 99,
+        "question_content": "Co to jest kwiat paproci?",
+        "answer_a": "biały kwiatek łapiący motyle",
+        "answer_b": "coś, co nie istnieje, choć podobno przynosi szczęście",
+        "answer_c": "ozdoba choinkowa",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 100,
+        "question_content": "W jakim mieście znajduje się Statua Wolności?",
+        "answer_a": "w Paryżu",
+        "answer_b": "w Londynie",
+        "answer_c": "w Nowym Jorku",
+        "correct_answer": "c",
+        "notes": [
+            "Jest to posąg kobiety z płonącą pochodnią w ręce, znajdujący się na Wyspie Wolności w Nowym Jorku u ujścia rzeki Hudson. Jej wysokość wraz z cokołem wynosi 93 metry, a waga 229 ton. Zbudowana ją ze stali i miedzi w Paryżu, a zmontowano w Nowym Jorku, ponieważ została podarowana Amerykanom przez Francję w stuletnią rocznicę Deklaracji Niepodległości (4-go lipca 1776), czyli w roku 1876 . Wysokość samej głowy tego posągu ma 5 metrów i 26 centymetrów."
+        ]
+    },
+    {
+        "number_of_question": 101,
+        "question_content": "Kto „nabija w butelkę”?",
+        "answer_a": "oszust",
+        "answer_b": "pijak",
+        "answer_c": "kelner",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 102,
+        "question_content": "Gdzie powstają książki?",
+        "answer_a": "w księgarni",
+        "answer_b": "w drukarni",
+        "answer_c": "w fabryce papieru",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 103,
+        "question_content": "Ile metrów ma kilometr?",
+        "answer_a": "10",
+        "answer_b": "1000",
+        "answer_c": "100",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 104,
+        "question_content": "Co to jest rarytas?",
+        "answer_a": "przypalona zupa",
+        "answer_b": "rower na trzech kołach",
+        "answer_c": "coś wyjątkowo smakowitego",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 105,
+        "question_content": "Co to jest atrament sympatyczny?",
+        "answer_a": "atrament, który jest niewidoczny",
+        "answer_b": "atrament, który świeci",
+        "answer_c": "atrament, który ładnie pachnie",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 106,
+        "question_content": "Kto to jest sobowtór?",
+        "answer_a": "aktor przebrany za kobietę",
+        "answer_b": "rycerz japoński",
+        "answer_c": "ktoś łudząco podobny do kogoś innego",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 107,
+        "question_content": "Kto pracuje najwyżej?",
+        "answer_a": "górnik",
+        "answer_b": "alpinista",
+        "answer_c": "kominiarz",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 108,
+        "question_content": "Co to jest karykatura?",
+        "answer_a": "sterta papieru",
+        "answer_b": "gadająca papuga",
+        "answer_c": "rysunek ośmieszający pewne cechy postaci",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 109,
+        "question_content": "Jak nazywa się prom kosmiczny?",
+        "answer_a": "kometa",
+        "answer_b": "wahadłowiec",
+        "answer_c": "rakieta",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 110,
+        "question_content": "Do czego służy batyskaf?",
+        "answer_a": "do badania głębin morskich",
+        "answer_b": "do badania powietrza",
+        "answer_c": "do przepowiadania pogody",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 111,
+        "question_content": "Co to jest kaligrafia?",
+        "answer_a": "nauka ładnego pisania",
+        "answer_b": "nauka o pszczołach",
+        "answer_c": "nauka kłamania",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 112,
+        "question_content": "Co to jest panda?",
+        "answer_a": "japoński motocykl",
+        "answer_b": "motyl z lasów brazylijskich",
+        "answer_c": "ssak azjatycki podobny do niedźwiadka",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 113,
+        "question_content": "Z czego się robi czekoladę?",
+        "answer_a": "z ziarna kakaowego",
+        "answer_b": "z cukru waniliowego z roztartym makiem",
+        "answer_c": "z wiórków kokosowych",
+        "correct_answer": "a",
+        "notes": [
+            "Głównym składnikiem czekolady jest właśnie ziarno kakaowe. Dojrzewa ono w owocach w kształcie ogórków o długości ok. 20 cm. Owoce te są niezwykle barwne – jasnoczerwone, zielone, szkarłatne lub żółte i zmieniają kolor w miarę dojrzewania. W każdym owocu znajduje się od 20 do 80 ziaren o wielkości 2-3 cm."
+        ]
+    },
+    {
+        "number_of_question": 114,
+        "question_content": "Co to jest bilon?",
+        "answer_a": "bęben w orkiestrze symfonicznej",
+        "answer_b": "monety",
+        "answer_c": "butelka, którą ma kolarz przy rowerze",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 115,
+        "question_content": "Co znajduje się w herbie Warszawy?",
+        "answer_a": "Wars z pochodnią w prawej ręce",
+        "answer_b": "Syrena z mieczem w prawej i tarczą w lewej ręce",
+        "answer_c": "Kolumna Zygmunta",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 116,
+        "question_content": "Co to są wykopki?",
+        "answer_a": "zawody piłkarskie",
+        "answer_b": "okres zbierania ziemniaków",
+        "answer_c": "praca górników w kopalni",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 117,
+        "question_content": "Jakie góry oddzielają Hiszpanię od Francji?",
+        "answer_a": "Alpy",
+        "answer_b": "Pireneje",
+        "answer_c": "Ural",
+        "correct_answer": "b",
+        "notes": [
+            "W Alpach natomiast znajduje się najwyższy szczyt Europy – Mont Blanc (4807 metrów), a góry Ural stanowią umowną granicę pomiędzy Europą i Azją."
+        ]
+    },
+    {
+        "number_of_question": 118,
+        "question_content": "Z czego robi się szkło?",
+        "answer_a": "z piasku",
+        "answer_b": "z wody i kleju",
+        "answer_c": "z żywicy drzew",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 119,
+        "question_content": "Kiedy jest Dzień Ojca?",
+        "answer_a": "24 grudnia",
+        "answer_b": "23 czerwca",
+        "answer_c": "1 kwietnia",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 120,
+        "question_content": "Co to jest babie lato?",
+        "answer_a": "obóz harcerek",
+        "answer_b": "dolina w Tatrach",
+        "answer_c": "nitki pajęczyny unoszone przez wiatr wczesną jesienią",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 121,
+        "question_content": "Co to jest siano?",
+        "answer_a": "słoma do wypychania materaców",
+        "answer_b": "ususzona trawa łąkowa",
+        "answer_c": "pole maku",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 122,
+        "question_content": "Co to jest kwartał?",
+        "answer_a": "trzy miesiące",
+        "answer_b": "ćwierć kilograma sera",
+        "answer_c": "rodzaj dużego żagla",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 123,
+        "question_content": "Co robi kompozytor?",
+        "answer_a": "przyrządza kompoty i desery owocowe",
+        "answer_b": "wymyśla muzykę",
+        "answer_c": "układa krzyżówki",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 124,
+        "question_content": "Co to jest naparstek?",
+        "answer_a": "mały kieliszek",
+        "answer_b": "kwiat łąkowy",
+        "answer_c": "ochraniacz na palec dla krawca",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 125,
+        "question_content": "Kto leczy dzieci?",
+        "answer_a": "pediatra",
+        "answer_b": "akrobata",
+        "answer_c": "przedszkolanka",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 126,
+        "question_content": "Co to jest molo?",
+        "answer_a": "droga szybkiego ruchu",
+        "answer_b": "środek na mole",
+        "answer_c": "pomost spacerowy nad wodą",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 127,
+        "question_content": "Z czego robi się rodzynki",
+        "answer_a": "z fig",
+        "answer_b": "z winogron",
+        "answer_c": "z agrestu",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 128,
+        "question_content": "Co to są zawody hippiczne?",
+        "answer_a": "skoki do wody",
+        "answer_b": "wyścigi hipopotamów",
+        "answer_c": "konne konkursy jeździeckie",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 129,
+        "question_content": "Gdzie rodzą się orzechy laskowe?",
+        "answer_a": "w ziemi",
+        "answer_b": "w laskach bagiennych",
+        "answer_c": "na leszczynie",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 130,
+        "question_content": "Co to jest słota?",
+        "answer_a": "rodzaj słodkiej czekolady",
+        "answer_b": "brzydka jesienna pogoda",
+        "answer_c": "olbrzymia kałuża",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 131,
+        "question_content": "Co to jest podeszwa?",
+        "answer_a": "żona szewca",
+        "answer_b": "kobieta w podeszłym wieku",
+        "answer_c": "spodnia część buta",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 132,
+        "question_content": "Laureat to:",
+        "answer_a": "wykonawca laurki",
+        "answer_b": "zdobywca nagrody",
+        "answer_c": "poeta",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 133,
+        "question_content": "Lazur to kolor:",
+        "answer_a": "niebieski",
+        "answer_b": "czerwony",
+        "answer_c": "żółty",
+        "correct_answer": "a",
+        "notes": [
+            "Np. lazur nieba, lazur morza."
+        ]
+    },
+    {
+        "number_of_question": 134,
+        "question_content": "Co to jest legumina?",
+        "answer_a": "potrawa",
+        "answer_b": "roślina",
+        "answer_c": "legowisko niedźwiedzia",
+        "correct_answer": "a",
+        "notes": [
+            "Jest to potrawa deserowa taka jak kisiel, czy budyń."
+        ]
+    },
+    {
+        "number_of_question": 135,
+        "question_content": "Lider to:",
+        "answer_a": "medalista",
+        "answer_b": "zawodnik na czele stawki",
+        "answer_c": "rekordzista",
+        "correct_answer": "b",
+        "notes": [
+            "Natomiast zawodnika na końcu stawki nazywa się outsiderem."
+        ]
+    },
+    {
+        "number_of_question": 136,
+        "question_content": "Co wyrabia ludwisarz?",
+        "answer_a": "meble",
+        "answer_b": "dzwony",
+        "answer_c": "buty",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 137,
+        "question_content": "Łakocie to inaczej:",
+        "answer_a": "łakomczuchy",
+        "answer_b": "słodycze",
+        "answer_c": "głodne koty",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 138,
+        "question_content": "Wyłożyć komuś kawę na ławę to znaczy:",
+        "answer_a": "być gościnnym",
+        "answer_b": "powiedzieć coś otwarcie",
+        "answer_c": "obrazić się",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 139,
+        "question_content": "Co to jest majeranek?",
+        "answer_a": "roślina przyprawowa",
+        "answer_b": "majowy poranek",
+        "answer_c": "stopień wojskowy",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 140,
+        "question_content": "Makrela to:",
+        "answer_a": "rodzaj makowca",
+        "answer_b": "duża kra na rzece",
+        "answer_c": "ryba morska",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 141,
+        "question_content": "Co to jest mankiet?",
+        "answer_a": "bogate przyjęcie, uczta",
+        "answer_b": "zakończenie rękawa",
+        "answer_c": "łańcuch rowerowy",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 142,
+        "question_content": "Idzie jak po maśle, to znaczy:",
+        "answer_a": "śliska sprawa",
+        "answer_b": "sprawy pomyślnie się układają",
+        "answer_c": "sprawy zmierzają w złym kierunku",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 143,
+        "question_content": "Mdła potrawa to:",
+        "answer_a": "potrawa pozbawiona smaku",
+        "answer_b": "potrawa zbyt słodka",
+        "answer_c": "potrawa bardzo smaczna",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 144,
+        "question_content": "Liczba milion składa się z jedynki i:",
+        "answer_a": "sześciu zer",
+        "answer_b": "dziewięciu zer",
+        "answer_c": "dziesięciu zer",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 145,
+        "question_content": "Decymetr jest",
+        "answer_a": "większy od metra",
+        "answer_b": "mniejszy od metra",
+        "answer_c": "taki sam jak metr",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 146,
+        "question_content": "Co wozi się do młyna?",
+        "answer_a": "siano",
+        "answer_b": "ziemniaki",
+        "answer_c": "zboże",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 147,
+        "question_content": "Co może mżyć?",
+        "answer_a": "papier",
+        "answer_b": "deszcz",
+        "answer_c": "rdza",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 148,
+        "question_content": "Czego nie znajdziesz w lesie ?",
+        "answer_a": "agrestu",
+        "answer_b": "jagody",
+        "answer_c": "poziomki",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 149,
+        "question_content": "Co to jest nać?",
+        "answer_a": "część pietruszki",
+        "answer_b": "część zegara",
+        "answer_c": "część drzewa",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 150,
+        "question_content": "Waga netto jest:",
+        "answer_a": "wagą towaru z opakowaniem",
+        "answer_b": "wagą towaru bez opakowania",
+        "answer_c": "wagą samego opakowania",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 151,
+        "question_content": "Błękitny, modry lub lazurowy to określenia koloru:",
+        "answer_a": "niebieskiego",
+        "answer_b": "czerwonego",
+        "answer_c": "zielonego",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 152,
+        "question_content": "Obszar na pustyni obfitujący w roślinność to:",
+        "answer_a": "miraż",
+        "answer_b": "oaza",
+        "answer_c": "fatamorgana",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 153,
+        "question_content": "Oberżysta to inaczej:",
+        "answer_a": "stajenny",
+        "answer_b": "karczmarz",
+        "answer_c": "rzeźnik",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 154,
+        "question_content": "Osoba, do której wysyłamy list to:",
+        "answer_a": "adresat",
+        "answer_b": "nadawca",
+        "answer_c": "listonosz",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 155,
+        "question_content": "Część łańcucha to:",
+        "answer_a": "oczko",
+        "answer_b": "ogniwo",
+        "answer_c": "okrąg",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 156,
+        "question_content": "Co może łopotać ?",
+        "answer_a": "łopata",
+        "answer_b": "chorągiew",
+        "answer_c": "rower",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 157,
+        "question_content": "Do czego służy łuczywo ?",
+        "answer_a": "do strzelania z łuku",
+        "answer_b": "do ochrony oczu",
+        "answer_c": "do oświetlania w ciemnościach",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 158,
+        "question_content": "Orzech laskowy to owoc:",
+        "answer_a": "leszczyny",
+        "answer_b": "buku",
+        "answer_c": "dębu",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 159,
+        "question_content": "Mapa to:",
+        "answer_a": "część Ziemi",
+        "answer_b": "część Polski",
+        "answer_c": "część atlasu",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 160,
+        "question_content": "Do dyni jest podobny:",
+        "answer_a": "melon",
+        "answer_b": "groch",
+        "answer_c": "banan",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 161,
+        "question_content": "Kto naprawia buty ?",
+        "answer_a": "butik",
+        "answer_b": "krawiec",
+        "answer_c": "szewc",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 162,
+        "question_content": "Co to jest paragon ?",
+        "answer_a": "roślina warzywna",
+        "answer_b": "podpis na dokumencie",
+        "answer_c": "dowód zapłaty za kupiony towar",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 163,
+        "question_content": "Do czego służy parawan ?",
+        "answer_a": "do zasłonięcia lub odgrodzenia czegoś",
+        "answer_b": "do jeżdżenia po szynach",
+        "answer_c": "do ochrony przed deszczem",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 164,
+        "question_content": "Co to jest parkan ?",
+        "answer_a": "duży ogród",
+        "answer_b": "płot",
+        "answer_c": "pomieszczenie dla bydła",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 165,
+        "question_content": "Co to jest pasieka ?",
+        "answer_a": "ule z pszczołami",
+        "answer_b": "pidżama w paski",
+        "answer_c": "stołówka dla zwierząt",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 166,
+        "question_content": "Co nie ma pestki ?",
+        "answer_a": "śliwka",
+        "answer_b": "dynia",
+        "answer_c": "seler",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 167,
+        "question_content": "Co robi kogut ?",
+        "answer_a": "wyje",
+        "answer_b": "ćwierka",
+        "answer_c": "pieje",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 168,
+        "question_content": "Co robi piechur ?",
+        "answer_a": "pali w piecu",
+        "answer_b": "wędruje pieszo",
+        "answer_c": "śpiewa w chórze",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 169,
+        "question_content": "Co ma płozy ?",
+        "answer_a": "koń",
+        "answer_b": "rower",
+        "answer_c": "sanie",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 170,
+        "question_content": "Gdzie jest podudzie ?",
+        "answer_a": "powyżej łokcia",
+        "answer_b": "poniżej kolana",
+        "answer_c": "powyżej kolana",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 171,
+        "question_content": "Kiedy zjadamy deser ?",
+        "answer_a": "zawsze przed obiadem",
+        "answer_b": "na ogół po obiedzie",
+        "answer_c": "tylko po przebudzeniu",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 172,
+        "question_content": "Kolor popielaty jest:",
+        "answer_a": "zielony",
+        "answer_b": "jasnoszary",
+        "answer_c": "czarny",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 173,
+        "question_content": "Kiedy mamy postęp ?",
+        "answer_a": "gdy ktoś nadepnie komuś na nogę",
+        "answer_b": "gdy ktoś postąpi źle",
+        "answer_c": "gdy coś zmieni się na lepsze",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 174,
+        "question_content": "Co to jest przechadzka ?",
+        "answer_a": "stara chata",
+        "answer_b": "spacer",
+        "answer_c": "spotkanie",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 175,
+        "question_content": "Jeśli ktoś przeczy to znaczy, że:",
+        "answer_a": "unika czegoś",
+        "answer_b": "nie zgadza się z kimś",
+        "answer_c": "naciska na coś",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 176,
+        "question_content": "Otwór w warstwie lodu to:",
+        "answer_a": "właz",
+        "answer_b": "przerębel",
+        "answer_c": "kra",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 177,
+        "question_content": "Jeśli ktoś się spóźnia, to mówimy, że:",
+        "answer_a": "jest nieprzychylny",
+        "answer_b": "jest nie na czasie",
+        "answer_c": "jest niepunktualny",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 178,
+        "question_content": "Co to jest przywilej ?",
+        "answer_a": "szczególne uprawnienie",
+        "answer_b": "zaleta",
+        "answer_c": "pochwała",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 179,
+        "question_content": "Które ciastko jest wypełnione bitą śmietaną ?",
+        "answer_a": "pączek",
+        "answer_b": "ptyś",
+        "answer_c": "chruścik",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 180,
+        "question_content": "Kolor ciemnoczerwony z fioletowym odcieniem to:",
+        "answer_a": "purpura",
+        "answer_b": "beż",
+        "answer_c": "seledyn",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 181,
+        "question_content": "Na człowieka zarozumiałego mówimy:",
+        "answer_a": "dziwak",
+        "answer_b": "pyszałek",
+        "answer_c": "spryciarz",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 182,
+        "question_content": "Co to jest reforma ?",
+        "answer_a": "uchwała",
+        "answer_b": "wprowadzenie zmian",
+        "answer_c": "poprawa sytuacji",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 183,
+        "question_content": "Co urośnie najwyżej ?",
+        "answer_a": "rabarbar",
+        "answer_b": "rzodkiewka",
+        "answer_c": "poziomka",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 184,
+        "question_content": "Powtarzający się fragment piosenki to:",
+        "answer_a": "refren",
+        "answer_b": "zwrotka",
+        "answer_c": "przyśpiewka",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 185,
+        "question_content": "Gdzie możemy sprawdzić jak bezbłędnie napisać wyraz ?",
+        "answer_a": "w encyklopedii",
+        "answer_b": "w słowniku ortograficznym",
+        "answer_c": "w leksykonie",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 186,
+        "question_content": "Dokąd trzeba iść z receptą ?",
+        "answer_a": "do lekarza",
+        "answer_b": "do apteki",
+        "answer_c": "do szpitala",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 187,
+        "question_content": "Gdzie znajdziemy regał ?",
+        "answer_a": "w bibliotece",
+        "answer_b": "w górach",
+        "answer_c": "w zegarku",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 188,
+        "question_content": "Co jest okrągłe ?",
+        "answer_a": "rotunda",
+        "answer_b": "romb",
+        "answer_c": "wielobok",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 189,
+        "question_content": "Część książki to:",
+        "answer_a": "papier",
+        "answer_b": "rozdział",
+        "answer_c": "tom",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 190,
+        "question_content": "Co nie ma kolców ?",
+        "answer_a": "róża",
+        "answer_b": "oset",
+        "answer_c": "pokrzywa",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 191,
+        "question_content": "Co musimy zrobić z dwiema liczbami, by otrzymać różnicę ?",
+        "answer_a": "pomnożyć",
+        "answer_b": "odjąć",
+        "answer_c": "podzielić",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 192,
+        "question_content": "Co nie jest chorobą ?",
+        "answer_a": "różyczka",
+        "answer_b": "kurzajka",
+        "answer_c": "świnka",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 193,
+        "question_content": "Jak nazywa się tylna część statku ?",
+        "answer_a": "rufa",
+        "answer_b": "burta",
+        "answer_c": "dziób",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 194,
+        "question_content": "Kto jest szefem Rządu ?",
+        "answer_a": "marszałek",
+        "answer_b": "premier",
+        "answer_c": "prezydent",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 195,
+        "question_content": "Co robi rzecznik ?",
+        "answer_a": "występuje w czyimś imieniu",
+        "answer_b": "nosi czyjeś rzeczy",
+        "answer_c": "pływa barką rzeczną",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 196,
+        "question_content": "Co ma rzepak ?",
+        "answer_a": "jadalne korzenie",
+        "answer_b": "liście większe od kapusty",
+        "answer_c": "nasiona zawierające olej",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 197,
+        "question_content": "Co rży ?",
+        "answer_a": "słoń",
+        "answer_b": "koń",
+        "answer_c": "szerszeń",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 198,
+        "question_content": "Co znajdziesz w sadzie ?",
+        "answer_a": "drewno",
+        "answer_b": "rowery",
+        "answer_c": "owoce",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 199,
+        "question_content": "Jak wygląda Sfinks ?",
+        "answer_a": "jest to jednooki olbrzym",
+        "answer_b": "jest to człowiek z głową byka",
+        "answer_c": "jest to lew z głową człowieka",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 200,
+        "question_content": "Przedstawiciel mieszkańców jakiejś wsi to:",
+        "answer_a": "chłop",
+        "answer_b": "wójt",
+        "answer_c": "sołtys",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 201,
+        "question_content": "W którym miesiącu są najdłuższe noce ?",
+        "answer_a": "w grudniu",
+        "answer_b": "w kwietniu",
+        "answer_c": "w lipcu",
+        "correct_answer": "a",
+        "notes": []
+    },
+    {
+        "number_of_question": 202,
+        "question_content": "Co nie jest ptakiem ?",
+        "answer_a": "pingwin",
+        "answer_b": "kiwi",
+        "answer_c": "nietoperz",
+        "correct_answer": "c",
+        "notes": []
+    },
+    {
+        "number_of_question": 203,
+        "question_content": "Gdzie mamy skroń ?",
+        "answer_a": "na nodze",
+        "answer_b": "na głowie",
+        "answer_c": "na plecach",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 204,
+        "question_content": "Którą z ryb możesz złowić w morzu ?",
+        "answer_a": "karpia",
+        "answer_b": "śledzia",
+        "answer_c": "pstrąga",
+        "correct_answer": "b",
+        "notes": []
+    },
+    {
+        "number_of_question": 205,
+        "question_content": "Jak nazywają się jaja złożone przez żabę ?",
+        "answer_a": "nabiał",
+        "answer_b": "ikra",
+        "answer_c": "skrzek",
+        "correct_answer": "c",
+        "notes": []
+    }
+]
