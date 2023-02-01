@@ -2,6 +2,7 @@ from django.shortcuts import render, redirect
 from django.http import HttpResponse
 from .models import Question, Answer
 from django.views.generic import ListView, TemplateView
+from django.views.generic.edit import FormView
 # Create your views here.
 from .forms import AnswerForm
 
@@ -33,7 +34,8 @@ def single_question_view(response, pk):
 import random  
 class PlayView(ListView):
     template_name = 'play.html'
-    
+
+
     def get_queryset(self):
         single_question = random.choice(Question.objects.all())
         return single_question

@@ -1,5 +1,5 @@
 {% extends "questions/base.html" %}
-{% load crispy_forms_tags %}
+
 
 {% block title %}
 {% endblock title %}
@@ -11,23 +11,25 @@
 
 
 
-<div class="question-title">Pytanie nr: {{object_list.number_of_question}}. {{object_list.question_content}}</div>
-<form method="post">
-    {{form|crispy}}
-    {% csrf_token %} 
-    <div class="form-check">
-        A: {{object_list.answer_a}} 
-        <input class="form-check-input" type="checkbox" value="A" id="A" name="answera">
-        <br>
-        B: {{object_list.answer_b}}
-        <input class="form-check-input" type="checkbox" value="B" id="B" name="answerb">
-        <br>
-        C: {{object_list.answer_c}}
-        <input class="form-check-input" type="checkbox" value="C" id="C" name="answerc">
-        <input type="hidden" value="{{object_list.number_of_question}}" name="question_number">
-    </div>
-    <button type="submit" class="btn btn-info">Sprawdź</button>
-</form>
+<div class="question-answer-form">
+    <div class="question-title">Pytanie nr: {{object_list.number_of_question}}. {{object_list.question_content}}</div>
+    <form method="post" >
+        {% csrf_token %} 
+        <div class="form-check">
+            A: {{object_list.answer_a}} 
+            <input class="form-check-input" type="checkbox" value="A" id="A" name="answera">
+            <br>
+            B: {{object_list.answer_b}}
+            <input class="form-check-input" type="checkbox" value="B" id="B" name="answerb">
+            <br>
+            C: {{object_list.answer_c}}
+            <input class="form-check-input" type="checkbox" value="C" id="C" name="answerc">
+            <input type="hidden" value="{{object_list.number_of_question}}" name="question_number">
+            <br>
+            <button type="submit" class="btn btn-info">Sprawdź</button>
+        </div> 
+    </form>
+</div>
 
 
 {% endblock content %}
