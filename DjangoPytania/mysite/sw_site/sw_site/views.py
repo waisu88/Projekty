@@ -25,15 +25,17 @@ class UserFormView(View):
 
     def post(self, request):
         form = self.form_class(request.POST)
-
+        print(form)
         if form.is_valid():
 
             user = form.save(commit=False)
 
             username = form.cleaned_data['username']
             password = form.cleaned_data['password']
-            is_recruiter = form.cleaned_data['is_recruiter']
+            
+            
             user.set_password(password)
+            
             user.save()
 
 

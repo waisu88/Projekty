@@ -1,10 +1,11 @@
 from django.shortcuts import render, redirect
 from django.http import HttpResponse
 from .models import Question, Answer
-from django.views.generic import ListView, TemplateView
+from django.views.generic import ListView, TemplateView, View 
 from django.views.generic.edit import FormView
 # Create your views here.
 from .forms import AnswerForm
+
 
 
 
@@ -33,12 +34,13 @@ def single_question_view(response, pk):
 
 import random  
 class PlayView(ListView):
+    
     template_name = 'play.html'
 
 
-    def get_queryset(self):
+    def get(self, request):
         single_question = random.choice(Question.objects.all())
-        return single_question
+        return render(request, self.template_name, {'single_question': single_question})
     
     def post(self, request):
         # form = AnswerForm(request.POST or None)
@@ -46,8 +48,9 @@ class PlayView(ListView):
 
         question_number = request.POST.get("question_number")
         answer = Answer()
+        
         answer.number_of_question = int(question_number)
-        print(answer.number_of_question)
+        
         answer.answer_a = "A" == request.POST.get("answera")
         answer.answer_b = "B" == request.POST.get("answerb")
         answer.answer_c = "C" == request.POST.get("answerc")

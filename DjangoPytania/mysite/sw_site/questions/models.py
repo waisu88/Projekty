@@ -13,6 +13,7 @@ class Question(models.Model):
     c_is_correct = models.BooleanField()
     question_notes = models.TextField(max_length=1000)
 
+
     def check_answers(self, user_answers):
         proper_answers = [self.a_is_correct, self.b_is_correct, self.c_is_correct]
         print(self.number_of_question)
@@ -38,7 +39,7 @@ class Question(models.Model):
 class Answer(models.Model):
     # user = models.ForeignKey(User, on_delete=models.CASCADE)
     number_of_question = models.PositiveIntegerField()
-    answer_a = models.BooleanField()
-    answer_b = models.BooleanField()
-    answer_c = models.BooleanField() 
+    answer_a = models.BooleanField(blank=True)
+    answer_b = models.BooleanField(blank=True)
+    answer_c = models.BooleanField(blank=True) 
     answer_is_proper = models.BooleanField()
