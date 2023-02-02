@@ -44,7 +44,6 @@ INSTALLED_APPS = [
     'questions',
     'recruiter_game',
     'crispy_forms',
-    'users',
 ]
 
 CRISPY_TEMPLATE_PACK = 'uni_form'

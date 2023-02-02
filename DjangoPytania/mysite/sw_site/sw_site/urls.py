@@ -25,6 +25,7 @@ urlpatterns = [
     path('', views.index, name='index'),
     path('questions/', include('questions.urls')),
     path('recruiter_game/', include('recruiter_game.urls')),
+    path('register/', views.UserFormView.as_view(), name='register'),
 ]
 
 

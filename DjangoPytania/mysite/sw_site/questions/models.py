@@ -34,13 +34,8 @@ class Question(models.Model):
         self.c_is_correct = "c" in question_listed[5]
         self.question_notes = question_listed[6]
 
-class User(models.Model):
-    username = models.CharField(max_length=50, unique=True)
-    user_mail = models.EmailField(max_length=254, blank=True)
-
 
 class Answer(models.Model):
-    
     # user = models.ForeignKey(User, on_delete=models.CASCADE)
     number_of_question = models.PositiveIntegerField()
     answer_a = models.BooleanField()

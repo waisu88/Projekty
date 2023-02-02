@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+
+{% load crispy_forms_tags %}
+{% block title %}
+Register
+{% endblock title %}
+
+{% block content %}
+
+
+
+
+
+
+
+
+<div class="question-answer-form">
+    <div class="question-title">Pytanie nr: {{object_list.number_of_question}}. {{object_list.question_content}}</div>
+    <form method="post">
+        {% csrf_token %} 
+        {{form|crispy}}
+        <button type="submit" class="btn btn-success">Register</button>
+        </div> 
+    </form>
+</div>
+
+
+{% endblock content %}
