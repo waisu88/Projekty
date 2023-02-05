@@ -33,6 +33,8 @@ def single_question_view(response, pk):
 
 
 import random  
+
+
 class PlayView(ListView):
     
     template_name = 'play.html'

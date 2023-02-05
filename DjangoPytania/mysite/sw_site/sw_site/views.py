@@ -1,17 +1,58 @@
 from django.shortcuts import render, redirect
-from django.contrib.auth import authenticate, login
+from django.contrib.auth import authenticate, login, logout
+from django.contrib.auth.forms import AuthenticationForm
 from django.views.generic import View
-from .forms import UserForm
+from .forms import UserForm, NewUserForm
+
+
+def register_view(request):
+    if request.method == "POST":
+        form = NewUserForm(request.POST)
+        if form.is_valid():
+            user = form.save()
+            login(request, user)
+            messages.success(request, "Registration successful.")
+            return redirect("/")
+        messages.error(request, "Unsuccessful registration. Invalid information.")
+    form = NewUserForm()
+    return render(request=request, template_name="auth/register.html", context={"form":form})
 
 
 
+def logout_view(request):
+    logout(request)
+    return redirect('login')
 
 
-def index(response):
-    # context = {
-    #     'proba': "nic tu nie wyśiwetla"
-    # }
-    return render(response, 'index.html')
+def login_view(request):
+    error_message = None
+    form = AuthenticationForm()
+    if request.method == "POST":
+        form = AuthenticationForm(data=request.POST)
+        if form.is_valid():
+            print(form.cleaned_data)
+            username = form.cleaned_data['username']
+            password = form.cleaned_data['password']
+            user = authenticate(username=username, password=password)
+            if user is not None:
+                login(request, user)
+                if request.GET.get('next'):
+                    return redirect(request.GET.get('next'))
+                else:
+                    return redirect("/")
+        else:
+            error_message = "UPS, something went wrong"
+    context = {
+        "form": form,
+        "error_message": error_message
+    }        
+
+    return render(request, "auth/login.html", context)
+
+
+
+def index(request):
+    return render(request, 'index.html')
 
 
 class UserFormView(View):

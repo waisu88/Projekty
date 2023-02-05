@@ -82,3 +82,12 @@ body {
 .col {
   padding: 5px;
 }
+
+.auth-navbar {
+  display: grid;
+  align-content: center;
+}
+
+.auth-button {
+  -top: 10px;
+}
