@@ -8,7 +8,7 @@
 }
 
 body {
-    background-color: rgb(20, 20, 20);
+    background-color: rgb(224, 222, 228);
 }
 
 .navbar-brand {
@@ -63,7 +63,6 @@ body {
 }
 
 
-
 .zagraj-rekruter {
   background-image: url("ryan-background.png");
   background-size: cover;
@@ -90,4 +89,8 @@ body {
 
 .auth-button {
   -top: 10px;
+}
+
+.text-center {
+  position: absolute;
 }

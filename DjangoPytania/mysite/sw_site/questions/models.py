@@ -21,8 +21,8 @@ class Question(models.Model):
         print(user_answers)
         return proper_answers == user_answers
 
-    # def __str__(self):
-    #     return f"Pytanie nr {self.number_of_question}"
+    def __str__(self):
+        return f"Pytanie nr {self.number_of_question}"
 
     def create_question(self, question_listed):
         self.number_of_question = question_listed[0]

@@ -9,9 +9,6 @@
 body {
     background-color: rgb(73, 73, 116);
 }
-.single-q a{
-    color: red; 
-}
 
 .container {
     display: flex;

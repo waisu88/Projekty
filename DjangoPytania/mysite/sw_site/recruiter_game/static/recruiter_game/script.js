@@ -119,12 +119,12 @@
 
            
             if (item.x > pavement.bottom || item.y > pavement.right ) {
-                // let diffPlayerAspX = player.x - item.x
-                // let diffPlayerAspY = player.y - item.y
-                // xSpeedAsp = diffPlayerAspX/(Math.abs(diffPlayerAspX) + Math.abs(diffPlayerAspY))*5
-                // ySpeedAsp = diffPlayerAspY/(Math.abs(diffPlayerAspX) + Math.abs(diffPlayerAspY))*5
-                // item.xSpeed = xSpeedAsp
-                // item.ySpeed = ySpeedAsp
+                let diffPlayerAspX = player.x - item.x
+                let diffPlayerAspY = player.y - item.y
+                xSpeedAsp = diffPlayerAspX/(Math.abs(diffPlayerAspX) + Math.abs(diffPlayerAspY))*5
+                ySpeedAsp = diffPlayerAspY/(Math.abs(diffPlayerAspX) + Math.abs(diffPlayerAspY))*5
+                item.xSpeed = xSpeedAsp
+                item.ySpeed = ySpeedAsp
                 item.x = 50
                 item.y = Math.floor(Math.random()*500)
             }
