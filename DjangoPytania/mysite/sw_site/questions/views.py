@@ -5,7 +5,9 @@ from django.views.generic import ListView, TemplateView, View
 from django.views.generic.edit import FormView
 # Create your views here.
 from .forms import AnswerForm
-import time
+from django.contrib.auth.decorators import login_required
+from django.utils.decorators import method_decorator
+from django.urls import reverse
 
 
 def home(response):
@@ -38,10 +40,21 @@ class PlayView(ListView):
     template_name = 'play.html'
 
 
+
     def get(self, request):
         single_question = random.choice(Question.objects.all())
-        return render(request, self.template_name, {'single_question': single_question})
-    
+        try:
+            points = request.session['points']
+        except KeyError:
+            points = None
+        context = {
+            'single_question': single_question,
+            'points': points
+        }
+        return render(request, self.template_name, context)
+
+
+    @method_decorator(login_required)
     def post(self, request):
     
         question_number = request.POST.get("question_number")
@@ -58,11 +71,13 @@ class PlayView(ListView):
         answer.answer_is_proper = single_question.check_answers(user_answers)
 
         answer.save()
-        
+        print(request.user)
         if answer:
             print(answer.answer_is_proper)
             print("Poprawna odpowiedź to A")
-            
+      
+        request.session['points'] = 10
+    
         return redirect(request.path)
 
 

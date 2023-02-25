@@ -1,0 +1,14 @@
+mo¿e umieœciæ permissions w kilku miejscach?? mo¿e nie byæ zgodne z przyjêtymi standardami
+
+
+Limitations of object level permissions
+
+model dla acccout tier? to rozwi¹¿e problem tworzenia nowego tieru
+
+
+dry-rest-rermission
+
+
+https://github.com/computer-lab/django-rest-framework-roles
+https://github.com/allisson/django-rest-framework-role-filters
+https://github.com/drf-psq/drf-psq

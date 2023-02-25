@@ -1,4 +1,5 @@
 from django.shortcuts import render, redirect
+from django.contrib import messages
 from django.contrib.auth import authenticate, login, logout
 from django.contrib.auth.forms import AuthenticationForm
 from django.views.generic import View
@@ -11,7 +12,7 @@ def register_view(request):
         if form.is_valid():
             user = form.save()
             login(request, user)
-            messages.success(request, "Registration successful.")
+            # messages.success(request, "Registration successful.")
             return redirect("/")
         messages.error(request, "Unsuccessful registration. Invalid information.")
     form = NewUserForm()
@@ -64,6 +65,7 @@ class UserFormView(View):
         form = self.form_class(None)
         return render(request, self.template_name, {'form': form})
 
+  
     def post(self, request):
         form = self.form_class(request.POST)
         print(form)
