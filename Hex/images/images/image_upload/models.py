@@ -50,14 +50,6 @@ class Thumbnail(models.Model):
     created_at = models.DateTimeField(auto_now_add=True)
 
 
-# class ExpiringLink(models.Model):
-#     expiring_link_2 = models.CharField(max_length=500)
-#     base_image = models.ForeignKey(Image, on_delete=models.CASCADE, null=True)
-#     created_by = models.ForeignKey(Profile, on_delete=models.CASCADE, null=True)
-#     created = models.DateTimeField(auto_now_add=True)
-#     expiration_date = models.DateTimeField(auto_now_add=True)
-#     seconds_to_expiration = models.PositiveIntegerField(validators=[MinValueValidator(300), MaxValueValidator(30000)])
-
 class BinaryImage(models.Model):
     base_image = models.ForeignKey(Image, on_delete=models.CASCADE)
     binary_image = models.ImageField(blank=True, null=True)
@@ -65,3 +57,4 @@ class BinaryImage(models.Model):
     created = models.DateTimeField(null=True)
     expiration_date = models.DateTimeField(null=True)
     seconds_to_expiration = models.PositiveIntegerField(validators=[MinValueValidator(300), MaxValueValidator(30000)])
+    

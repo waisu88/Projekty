@@ -5,3 +5,4 @@ easy-thumbnails
 django-cleanup
 django-request-token///////////
 opencv-python
+pillow
